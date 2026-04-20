@@ -1,20 +1,101 @@
-<h1 align="center">Hi 👋, I'm Siddhant Shukla</h1>
-<h3 align="center">👋 Hi, I’m a passionate frontend developer from India! I love building interactive and intuitive web experiences, but my skill set goes far beyond just the frontend. 💻 What I Do: Full-Stack Development: MERN Stack, Next.js Frontend Styling: HTML, CSS, Tailwind CSS Backend & Databases: Node.js, Express.js, SQL Programming Languages: Java, Python, C Data Science & ML: Pandas, NumPy, Machine Learning 🚀 Competitive Programming Enthusiast: I enjoy solving challenging problems on: LeetCode CodeChef Codeforces Whether it's frontend, backend, or full-stack development, I love to code, build, and solve real-world problems. Competitive programming is my go-to for sharpening problem-solving skills!</h3>
+<h1 align="center">Siddhant Shukla</h1>
+<h3 align="center">Full-Stack Developer • Backend Systems • Scalable Architecture</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tr8n&label=Profile%20views&color=0e75b6&style=flat" alt="tr8n" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tr8n" alt="tr8n" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/siddhant-shukla-6b4564275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddhant-shukla-6b4564275/" height="30" width="40" /></a>
-<a href="https://instagram.com/xlr.8.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xlr.8.exe" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tr8n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tr8n" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/cys_104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cys_104" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/0ntr8n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="0ntr8n" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/siddhant-shukla-6b4564275/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/tr8n">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/xlr.8.exe">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.leetcode.com/0ntr8n">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.codechef.com/users/tr8n">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tr8n&show_icons=true&locale=en&layout=compact" alt="tr8n" /></p>
+## Profile
+Backend-focused developer building scalable APIs, caching systems, and production-grade applications. Strong in system design, performance optimization, and debugging.
+
+---
+
+## Tech Stack
+
+**Languages**  
+`JavaScript` `TypeScript` `Java` `Python` `SQL` `C`
+
+**Frontend**  
+`React` `Next.js` `HTML` `CSS` `Tailwind`
+
+**Backend**  
+`Node.js` `Express` `REST APIs` `JWT` `Redis`
+
+**Databases**  
+`MongoDB` `PostgreSQL` `MySQL`
+
+**DevOps & Tools**  
+`Docker` `Git` `Linux` `Postman`
+
+**AI / Data**  
+`Pandas` `NumPy` `Machine Learning` `OpenAI APIs`
+
+---
+
+## Core Strengths
+- API Design & Backend Architecture  
+- Authentication & Security (JWT, Rate Limiting)  
+- Caching & Performance Optimization (Redis)  
+- System Design & Scalability  
+- Production Debugging  
+
+---
+
+## Projects
+
+### LinkUp — Personal Link Manager
+- MERN + AI SaaS application  
+- JWT authentication + Redis caching  
+- AI-powered summarization  
+
+### Sorting Visualizer
+- Real-time algorithm visualization  
+- Interactive UI controls  
+
+---
+
+## Competitive Programming
+- LeetCode (400+ problems)  
+- Codeforces (Pupil)  
+- CodeChef  
+
+---
+
+## Achievements
+- LeetCode Knight (1650+)  
+- HackQuest Hackathon — 4th Runner-Up  
+- Meta Backend Specialization  
+- Generative AI Certification  
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tr8n&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tr8n&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## Languages Usage
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tr8n&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
