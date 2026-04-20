@@ -1,101 +1,98 @@
 <h1 align="center">Siddhant Shukla</h1>
-<h3 align="center">Full-Stack Developer • Backend Systems • Scalable Architecture</h3>
+<h3 align="center">⚡ Backend Systems • Full-Stack Execution • Scalable Architecture</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Build+Systems+That+Scale;Optimize+Everything;Break+Problems+Down+to+Core;Code.+Ship.+Repeat." />
+</p>
+
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/siddhant-shukla-6b4564275/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/tr8n">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://instagram.com/xlr.8.exe">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.leetcode.com/0ntr8n">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://www.codechef.com/users/tr8n">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  <a href="https://codeforces.com/profile/0nTr8n">
+    <img src="https://img.shields.io/badge/Codeforces-0nTr8n-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/TanBlaze">
+    <img src="https://img.shields.io/badge/Codeforces-TanBlaze-FF3C38?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 ## Profile
-Backend-focused developer building scalable APIs, caching systems, and production-grade applications. Strong in system design, performance optimization, and debugging.
+
+Backend-first developer focused on building high-performance systems. Designs APIs, caching layers, and scalable architectures. Operates across the stack when necessary. Prioritizes efficiency, reliability, and clean system boundaries.
 
 ---
 
-## Tech Stack
+## Execution Domains
 
-**Languages**  
-`JavaScript` `TypeScript` `Java` `Python` `SQL` `C`
-
-**Frontend**  
-`React` `Next.js` `HTML` `CSS` `Tailwind`
-
-**Backend**  
-`Node.js` `Express` `REST APIs` `JWT` `Redis`
-
-**Databases**  
-`MongoDB` `PostgreSQL` `MySQL`
-
-**DevOps & Tools**  
-`Docker` `Git` `Linux` `Postman`
-
-**AI / Data**  
-`Pandas` `NumPy` `Machine Learning` `OpenAI APIs`
-
----
-
-## Core Strengths
-- API Design & Backend Architecture  
-- Authentication & Security (JWT, Rate Limiting)  
-- Caching & Performance Optimization (Redis)  
-- System Design & Scalability  
-- Production Debugging  
+```
+System Design      ██████████████
+Backend Systems    ██████████████████
+Problem Solving    ███████████████████
+Frontend Systems   ████████████
+```
 
 ---
 
 ## Projects
 
-### LinkUp — Personal Link Manager
-- MERN + AI SaaS application  
-- JWT authentication + Redis caching  
-- AI-powered summarization  
+### LinkUp — Personal Link Manager (MERN + AI)
+- JWT-secured architecture  
+- Redis-backed caching layer  
+- AI-driven summarization engine  
 
 ### Sorting Visualizer
-- Real-time algorithm visualization  
-- Interactive UI controls  
+- Algorithm breakdown in real-time  
+- Controlled rendering + UI interaction  
 
 ---
 
-## Competitive Programming
-- LeetCode (400+ problems)  
-- Codeforces (Pupil)  
+## Competitive Layer
+
+- LeetCode → 400+ Problems  
+- Codeforces → Pupil  
 - CodeChef  
 
 ---
 
-## Achievements
-- LeetCode Knight (1650+)  
-- HackQuest Hackathon — 4th Runner-Up  
-- Meta Backend Specialization  
-- Generative AI Certification  
-
----
-
-## GitHub Analytics
+## GitHub Intelligence
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tr8n&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tr8n&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tr8n&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tr8n&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" height="170"/>
 </p>
 
 ---
 
-## Languages Usage
+## Language Distribution
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tr8n&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tr8n&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" height="170"/>
+</p>
+
+---
+
+## Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,c,react,next,nodejs,express,mongodb,postgres,mysql,redis,docker,linux,git,tailwind" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40"/>
 </p>
