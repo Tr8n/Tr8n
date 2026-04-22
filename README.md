@@ -1,4 +1,4 @@
-<h1 align="center">Siddhant Shukla</h1>
+<!-- <h1 align="center">Siddhant Shukla</h1>
 <h3 align="center">⚡ Backend Systems • Full-Stack Execution • Scalable Architecture</h3>
 
 <p align="center">
@@ -95,4 +95,94 @@ Frontend Systems   ████████████
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40"/>
-</p>
+</p> -->
+# Siddhant Shukla
+
+**Backend Systems • Full-Stack Development • Scalable Architecture**
+
+---
+
+## About
+
+Backend-first engineer building high-performance systems and scalable architectures. Focused on API design, distributed systems, and efficient code. Work across the stack when needed, but optimize for the core layer.
+
+---
+
+## Quick Links
+
+| Profile | Link |
+|---------|------|
+| **LinkedIn** | [siddhant-shukla-6b4564275](https://www.linkedin.com/in/siddhant-shukla-6b4564275/) |
+| **LeetCode** | [0ntr8n](https://www.leetcode.com/0ntr8n) — 400+ problems |
+| **Codeforces** | [0nTr8n](https://codeforces.com/profile/0nTr8n) — Pupil |
+| **Portfolio** | [tr8n.github.io/Portfolio](https://tr8n.github.io/Portfolio/) |
+
+---
+
+## Core Competencies
+
+| Domain | Expertise |
+|--------|-----------|
+| **Backend** | Node.js, Express, RESTful APIs, Microservices |
+| **Databases** | MongoDB, PostgreSQL, MySQL, Redis |
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **System Design** | Caching strategies, distributed systems, scalability |
+| **DevOps** | Docker, Linux, Git |
+| **Data/ML** | Python, TensorFlow, scikit-learn, Pandas |
+
+---
+
+## Notable Projects
+
+### **LinkUp** — Personal Link Manager  
+*MERN Stack + AI/ML*
+- JWT authentication & secure architecture
+- Redis caching layer for optimization
+- AI-driven content summarization
+- [Repository](https://github.com/tr8n)
+
+### **Sorting Visualizer**  
+*React + Algorithm Visualization*
+- Real-time algorithm step-through
+- Interactive UI with multiple sorting algorithms
+- [Repository](https://github.com/tr8n)
+
+### **Node.js/Express CRUD Systems**  
+*Backend Development*
+- Mongoose schemas with Firebase/Auth0 integration
+- Production-grade API design
+
+---
+
+## Tech Stack
+
+**Languages:** JavaScript • TypeScript • Python • Java • C  
+**Frontend:** React • Next.js • Tailwind CSS  
+**Backend:** Node.js • Express  
+**Databases:** MongoDB • PostgreSQL • MySQL • Redis  
+**Tools & DevOps:** Docker • Git • Linux  
+**Data/ML:** TensorFlow • scikit-learn • Pandas • NumPy  
+
+---
+
+## Competitive Programming
+
+- **LeetCode:** 400+ problems solved (Knight badge)
+- **Codeforces:** Pupil rating
+- **CodeChef:** Active participant
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tr8n&show_icons=true&theme=github_dark&hide_border=true&bg_color=000&text_color=fff&title_color=fff&icon_color=30a3dc&count_private=true&hide=prs&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tr8n&layout=compact&theme=github_dark&hide_border=true&bg_color=000&text_color=fff&title_color=fff)
+
+---
+
+## Currently
+
+- **Status:** Open to entry-level/junior developer roles (₹6–10 LPA)
+- **Focus:** MERN stack, backend systems, scalable architecture
+- **Location:** Noida/NCR (open to remote)
