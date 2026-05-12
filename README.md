@@ -1,188 +1,29 @@
-<!-- <h1 align="center">Siddhant Shukla</h1>
-<h3 align="center">⚡ Backend Systems • Full-Stack Execution • Scalable Architecture</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Build+Systems+That+Scale;Optimize+Everything;Break+Problems+Down+to+Core;Code.+Ship.+Repeat." />
-</p>
-
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/siddhant-shukla-6b4564275/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/tr8n">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/xlr.8.exe">
-    <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.leetcode.com/0ntr8n">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://codeforces.com/profile/0nTr8n">
-    <img src="https://img.shields.io/badge/Codeforces-0nTr8n-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-  <a href="https://codeforces.com/profile/TanBlaze">
-    <img src="https://img.shields.io/badge/Codeforces-TanBlaze-FF3C38?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## Profile
-
-Backend-first developer focused on building high-performance systems. Designs APIs, caching layers, and scalable architectures. Operates across the stack when necessary. Prioritizes efficiency, reliability, and clean system boundaries.
-
----
-
-## Execution Domains
-
-```
-System Design      ██████████████
-Backend Systems    ██████████████████
-Problem Solving    ███████████████████
-Frontend Systems   ████████████
-```
-
----
-
-## Projects
-
-### LinkUp — Personal Link Manager (MERN + AI)
-- JWT-secured architecture  
-- Redis-backed caching layer  
-- AI-driven summarization engine  
-
-### Sorting Visualizer
-- Algorithm breakdown in real-time  
-- Controlled rendering + UI interaction  
-
----
-
-## Competitive Layer
-
-- LeetCode → 400+ Problems  
-- Codeforces → Pupil  
-- CodeChef  
-
----
-
-## GitHub Intelligence
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tr8n&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tr8n&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" height="170"/>
-</p>
-
----
-
-## Language Distribution
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tr8n&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" height="170"/>
-</p>
-
----
-
-## Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,c,react,next,nodejs,express,mongodb,postgres,mysql,redis,docker,linux,git,tailwind" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40"/>
-</p> -->
 # Siddhant Shukla
 
-**Backend Systems • Full-Stack Development • Scalable Architecture**
-
----
+Backend Engineer | Full-Stack Developer
 
 ## About
+Backend-focused developer building scalable systems, APIs, and efficient applications.
 
-Backend-first engineer building high-performance systems and scalable architectures. Focused on API design, distributed systems, and efficient code. Work across the stack when needed, but optimize for the core layer.
+## Stack
+**Languages:** JavaScript, TypeScript, Java, Python  
+**Backend:** Node.js, Express, Redis, MongoDB, PostgreSQL, MySQL  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Tools:** Docker, Git, Linux
 
----
+## Projects
+**LinkUp**  
+Personal link manager with JWT auth, Redis caching, AI summarization.
 
-## Quick Links
-
-| Profile | Link |
-|---------|------|
-| **LinkedIn** | [siddhant-shukla-6b4564275](https://www.linkedin.com/in/siddhant-shukla-6b4564275/) |
-| **LeetCode** | [0ntr8n](https://www.leetcode.com/0ntr8n) — 400+ problems |
-| **Codeforces** | [0nTr8n](https://codeforces.com/profile/0nTr8n) — Pupil |
-| **Portfolio** | [tr8n.github.io/Portfolio](https://tr8n.github.io/Portfolio/) |
-
----
-
-## Core Competencies
-
-| Domain | Expertise |
-|--------|-----------|
-| **Backend** | Node.js, Express, RESTful APIs, Microservices |
-| **Databases** | MongoDB, PostgreSQL, MySQL, Redis |
-| **Frontend** | React, Next.js, Tailwind CSS |
-| **System Design** | Caching strategies, distributed systems, scalability |
-| **DevOps** | Docker, Linux, Git |
-| **Data/ML** | Python, TensorFlow, scikit-learn, Pandas |
-
----
-
-## Notable Projects
-
-### **LinkUp** — Personal Link Manager  
-*MERN Stack + AI/ML*
-- JWT authentication & secure architecture
-- Redis caching layer for optimization
-- AI-driven content summarization
-- [Repository](https://github.com/tr8n)
-
-### **Sorting Visualizer**  
-*React + Algorithm Visualization*
-- Real-time algorithm step-through
-- Interactive UI with multiple sorting algorithms
-- [Repository](https://github.com/tr8n)
-
-### **Node.js/Express CRUD Systems**  
-*Backend Development*
-- Mongoose schemas with Firebase/Auth0 integration
-- Production-grade API design
-
----
-
-## Tech Stack
-
-**Languages:** JavaScript • TypeScript • Python • Java • C  
-**Frontend:** React • Next.js • Tailwind CSS  
-**Backend:** Node.js • Express  
-**Databases:** MongoDB • PostgreSQL • MySQL • Redis  
-**Tools & DevOps:** Docker • Git • Linux  
-**Data/ML:** TensorFlow • scikit-learn • Pandas • NumPy  
-
----
+**Sorting Visualizer**  
+Interactive algorithm visualization platform.
 
 ## Competitive Programming
+- LeetCode: 400+ problems
+- Codeforces: Pupil
 
-- **LeetCode:** 400+ problems solved (Knight badge)
-- **Codeforces:** Pupil rating
-- **CodeChef:** Active participant
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tr8n&show_icons=true&theme=github_dark&hide_border=true&bg_color=000&text_color=fff&title_color=fff&icon_color=30a3dc&count_private=true&hide=prs&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tr8n&layout=compact&theme=github_dark&hide_border=true&bg_color=000&text_color=fff&title_color=fff)
-
----
-
-## Currently
-
-- **Status:** Open to entry-level/junior developer roles (₹6–10 LPA)
-- **Focus:** MERN stack, backend systems, scalable architecture
-- **Location:** Noida/NCR (open to remote)
+## Links
+- GitHub: https://github.com/tr8n
+- Portfolio: https://tr8n.github.io/Portfolio
+- LinkedIn: https://linkedin.com/in/siddhant-shukla-6b4564275
+- LeetCode: https://leetcode.com/0ntr8n
